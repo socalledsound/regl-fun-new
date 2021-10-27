@@ -1,10 +1,10 @@
 {
-  "name": "__regl_fun",
+  "name": "regl_fun",
   "version": "1.0.0",
   "description": "",
   "main": "audio-2/index.js",
   "scripts": {
-    "start": "budo --live --open bubblingSphere/index.js"
+    "start": "budo --live --open oily/index.js"
   },
   "browserify": {
     "transform": [
